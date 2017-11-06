@@ -1,10 +1,10 @@
-# ReduxArchitectureExample
+# CS575 Web Architecture Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
-## Development server
+The purpose of this project is to demonstrate the angular framework, discuss modern web architectures, and show how state can be managed in angular applications.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+After cloning from git, ensure you have [NodeJS](https://nodejs.org/en/) installed, and the [Angular CLI](https://github.com/angular/angular-cli) utility.  To build the app you need to pull the node dependencies via `npm install`.  After that you can run the app in the development server using `ng serve`.
 
 ## Code scaffolding
 
