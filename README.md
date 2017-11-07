@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The purpose of this project is to demonstrate the angular framework, discuss modern web architectures, and show how state can be managed in angular applications.
 
+Please note that this project was built to intentionally show both **good** and **bad** practices of state managment so that I can discusss them in class with respect to web architecture best practices.  
+
+## Installing
+
 After cloning from git, ensure you have [NodeJS](https://nodejs.org/en/) installed, and the [Angular CLI](https://github.com/angular/angular-cli) utility.  To build the app you need to pull the node dependencies via `npm install`.  After that you can run the app in the development server using `ng serve`.
 
 ## Code scaffolding
